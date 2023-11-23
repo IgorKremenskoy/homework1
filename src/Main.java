@@ -5,6 +5,9 @@ public class Main {
         int x =10;
         System.out.println(x);
         System.out.println(y);
+        System.out.println("Hallo");
+        System.out.println("Chao!!!");
+
 
 
     }
